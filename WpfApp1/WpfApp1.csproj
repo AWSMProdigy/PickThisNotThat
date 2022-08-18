@@ -8,8 +8,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Websocket.Client" Version="4.4.43" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="LCUSharp">
-      <HintPath>..\..\..\..\Desktop\LCUSharp.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\lcu-sharp-master\LCUSharp\bin\Debug\net5.0\LCUSharp.dll</HintPath>
     </Reference>
     <Reference Include="RiotSharp">
       <HintPath>..\..\..\..\Desktop\RiotSharp.dll</HintPath>

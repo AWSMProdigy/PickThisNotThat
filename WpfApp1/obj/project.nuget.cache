@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Cm0RD+/xv96IfdcwuyLdhfgwkgvGwQCdVDjBeLmq1D9RpkI/9Uzv/0fSKlGAvbiSdvzpz18Oh8Zv6D7gpFFZvg==",
+  "dgSpecHash": "FQqHTGLQUwUYZGNsLOkt/l6Tcco4gKZHY0GNNs4L8I1qJ8cLZGSlfYHnuGpX125fwHXXvCoeWLQpoIQrtPMGEA==",
   "success": true,
   "projectFilePath": "C:\\Users\\strai\\Documents\\UCF\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\strai\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\strai\\.nuget\\packages\\system.reactive\\4.3.2\\system.reactive.4.3.2.nupkg.sha512",
+    "C:\\Users\\strai\\.nuget\\packages\\system.threading.channels\\4.7.0\\system.threading.channels.4.7.0.nupkg.sha512",
+    "C:\\Users\\strai\\.nuget\\packages\\websocket.client\\4.4.43\\websocket.client.4.4.43.nupkg.sha512"
+  ],
   "logs": []
 }

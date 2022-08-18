@@ -22,3 +22,8 @@ C:\Users\strai\Documents\UCF\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\Wpf
 C:\Users\strai\Documents\UCF\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
 C:\Users\strai\Documents\UCF\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
 C:\Users\strai\Documents\UCF\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\strai\Documents\UCF\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\System.Reactive.dll
+C:\Users\strai\Documents\UCF\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\LCUSharp.pdb
+C:\Users\strai\Documents\UCF\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\System.Reactive.xml
+C:\Users\strai\Documents\UCF\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Websocket.Client.dll
+C:\Users\strai\Documents\UCF\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
